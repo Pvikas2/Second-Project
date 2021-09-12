@@ -66,15 +66,15 @@ section {
 
 
 .first {
-    background-image: url("https://images.unsplash.com/photo-1630370426774-8d2f95addf31?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+    background-image: url("../Assetts/beachrunhed.jpg");
     min-height: 700px;
 }
 .second {
-    background-image: url("https://i1.wp.com/ignitecorp.com.au/wp-content/uploads/2016/07/Website-background.jpg");
+    background-image: url("../Assetts/photo\ 2.jpg");
     min-height: 500px;
 }
 .third {
-    background-image: url("https://images.robertharding.com/preview/RM/RH/HORIZONTAL/817-220651.jpg");
+    background-image: url("../Assetts/photo\ 3.jpg");
     min-height: 500px;
 }
 
